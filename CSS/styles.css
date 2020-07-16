@@ -56,6 +56,10 @@ div {
   position : absolute;
   left: 15%;
 }
+.qoute{
+  font-family: 'Shadows Into Light', cursive;
+  color: rgb(50, 92, 8);
+}
 
 .footer-link{
   color: #01474a;
